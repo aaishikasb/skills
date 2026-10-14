@@ -1,0 +1,3 @@
+interface:
+  display_name: "Talk Builder"
+  short_description: "Shape a timed technical talk with a demo fallback"

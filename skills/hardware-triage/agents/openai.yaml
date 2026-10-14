@@ -1,0 +1,3 @@
+interface:
+  display_name: "Hardware Triage"
+  short_description: "Rank hardware failure causes and choose the next check"

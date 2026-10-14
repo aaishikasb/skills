@@ -1,0 +1,3 @@
+interface:
+  display_name: "Workshop Builder"
+  short_description: "Plan hands-on sessions with checkpoints and recovery"

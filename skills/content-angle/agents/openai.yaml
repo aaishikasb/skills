@@ -1,0 +1,3 @@
+interface:
+  display_name: "Content Angle"
+  short_description: "Find a useful article premise supported by evidence"

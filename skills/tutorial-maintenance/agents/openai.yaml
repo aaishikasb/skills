@@ -1,0 +1,3 @@
+interface:
+  display_name: "Tutorial Maintenance"
+  short_description: "Repair tutorial drift within the intended version"

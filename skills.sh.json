@@ -1,0 +1,38 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "What comes next",
+      "description": "Find the next worthwhile investment across a project and its audience.",
+      "skills": ["what-else"]
+    },
+    {
+      "title": "Demos and teaching",
+      "description": "Scope, verify, explain, and teach a working technical project.",
+      "skills": [
+        "demo-brief",
+        "demo-proof",
+        "demo-to-tutorial",
+        "explain-concept",
+        "workshop-builder",
+        "talk-builder"
+      ]
+    },
+    {
+      "title": "Content and feedback",
+      "description": "Find useful stories, remove onboarding friction, and act on developer evidence.",
+      "skills": [
+        "content-angle",
+        "developer-friction",
+        "developer-feedback",
+        "tutorial-maintenance"
+      ]
+    },
+    {
+      "title": "Edge AI and hardware",
+      "description": "Check device constraints and choose experiments that separate possible causes.",
+      "skills": ["edge-feasibility", "hardware-triage"]
+    }
+  ]
+}

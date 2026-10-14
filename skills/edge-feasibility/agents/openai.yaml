@@ -1,0 +1,3 @@
+interface:
+  display_name: "Edge Feasibility"
+  short_description: "Check device constraints before committing to a build"

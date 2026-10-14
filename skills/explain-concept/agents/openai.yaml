@@ -1,0 +1,3 @@
+interface:
+  display_name: "Explain Concept"
+  short_description: "Explain a concept and check whether learners can apply it"

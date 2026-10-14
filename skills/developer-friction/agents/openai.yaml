@@ -1,0 +1,3 @@
+interface:
+  display_name: "Developer Friction"
+  short_description: "Find first-run blockers in guides and sample projects"
