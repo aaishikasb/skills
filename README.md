@@ -1,5 +1,7 @@
 # Skills for everyday DevRel
 
+[![skills.sh](https://skills.sh/b/aaishikasb/skills)](https://skills.sh/aaishikasb/skills)
+
 Agent skills for the work between a product and the developers trying to use it: quickstarts, technical articles, tutorials, workshops, talks, and community feedback.
 
 These thirteen skills give your agent a specific job and a concrete deliverable: fixes to a quickstart, an article brief, a tutorial draft, or issues backed by developer reports.
